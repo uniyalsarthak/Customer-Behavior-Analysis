@@ -88,5 +88,3 @@ Below is a snapshot of the interactive Power BI dashboard created for this analy
 This project demonstrates how **data analytics can transform raw retail data into strategic insights** that drive better customer targeting, pricing strategies, and loyalty initiatives.  
 
 ---
-
-## 🧰 Project Structure
