@@ -73,7 +73,7 @@ It enables decision-makers to **filter, compare, and explore** data dynamically.
 
 Below is a snapshot of the interactive Power BI dashboard created for this analysis:
 
-![Customer Behavior Dashboard](dashboard.png)
+![Customer Behavior Dashboard](dashboard1.png)
 
 ---
 
